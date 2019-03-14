@@ -2,8 +2,8 @@
 name: Richard Amador
 email: richard.amador.jr@gmail.com
 #canonical_url: https://richamador.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Product Manager, Design, Ruby, Startups, Agile"
+skills: "Product Manager in Jersey City, NJ"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -24,9 +24,9 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 006E41
+  primary: 116466
   primary-rgb: "33, 150, 243"
-  secondary: 285172
+  secondary: D9B08C
   secondary-dark: 29455b
   section-tout: eaf1f1
 
