@@ -1,2 +1,1 @@
-# bio_site
-Site to exhibit prior work
+Portfolio site for Rich Amador
